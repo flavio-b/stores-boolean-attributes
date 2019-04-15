@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = []
 
   spec.summary       = %q{Simple model concern for store attributes.}
-  spec.description   = %q{}
+  spec.description   = %q{The main goal is to add the a ability to dynamically create query methods for store attributes.}
   spec.homepage      = "https://gitlab.com/flavio_b/stores-boolean-attributes-gem"
   spec.license       = "MIT"
 
