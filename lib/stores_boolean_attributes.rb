@@ -1,4 +1,5 @@
 require "stores_boolean_attributes/version"
+require 'active_support/concern'
 
 module StoresBooleanAttributes
   extend ActiveSupport::Concern
